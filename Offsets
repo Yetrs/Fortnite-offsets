@@ -1,7 +1,7 @@
 {
    "offsets":{
       "uworld":"0xEA774E8",
-      "ViewPoint":"0xE99FEA0",
+      "ViewPoint":"0xf0e8bd0",
       "Gameinstance":"0x1b8",
       "LocalPlayers":"0x38",
       "PlayerController":"0x30",
@@ -16,9 +16,9 @@
       "CurrentActor":"0x8",
       "Mesh":"0x310",
       "Revivefromdbnotime":"0x45b0",
-      "TeamId":"0x10b8",
+      "TeamId":"0x10c8",
       "ActorTeamId":"0x10b8",
-      "IsDBNO":"0x872",
+      "IsDBNO":"0x832",
       "LocalActorPos":"0x128",
       "ComponetToWorld":"0x240",
       "BoneArray":"0x600",
